@@ -2,7 +2,7 @@
 
 ## Description
 
-![Image-carousel Screenshot](demo-imag.png)
+![Image-carousel Screenshot](demo-img.png)
 
 This is a multi-image carousel made using HTML, CSS and vanilla JS . This carousel has a fixed width container that has the navigation buttons and a container whose width depends on the number of image cards included. The child elements in the container(with all images) are arranged horizontally with an equal gap between them. The child elements that overflow the parent container's width is hidden and can be scrolled to make them into view with the help of left or right scroll arrows.
 
